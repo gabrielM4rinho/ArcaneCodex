@@ -1,0 +1,21 @@
+{
+  "versao": "1.0",
+  "magias": [
+    {
+      "nome": "Curar Ferimentos",
+      "circulo": 1,
+      "escola": "EVOCACAO",
+      "execucao": "ACAO_PADRAO",
+      "alcance": "TOQUE",
+      "alvo": "Uma criatura",
+      "duracao": "INSTANTANEA",
+      "resistencia": "NENHUMA",
+      "descricao": "...",
+      "aprimoramentos": "...",
+      "tags": [
+        "CURA",
+        "SUPORTE"
+      ]
+    }
+  ]
+}
