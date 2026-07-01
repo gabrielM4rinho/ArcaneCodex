@@ -44,3 +44,4 @@ public class Magia {
     private Set<Tag> tags = new HashSet<>();
 
 }
+
